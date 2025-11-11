@@ -55,11 +55,11 @@ Delay.h, stdutils.h, gpioi.h
 
 # PIN DIAGRAM:
 
-<img width="817" height="568" alt="image" src="https://github.com/user-attachments/assets/8f01fda0-bf21-4514-a910-f94ce0734786" />
+<img width="684" height="441" alt="image" src="https://github.com/user-attachments/assets/b70a517d-8bdc-440e-b3c7-8944c3fc932d" />
 
 # CIRCUIT DIAGRAM:
 
-<img width="846" height="606" alt="image" src="https://github.com/user-attachments/assets/641283ec-544c-4f51-b30e-6c9964fdb14b" />
+<img width="564" height="441" alt="Screenshot 2025-11-11 134041" src="https://github.com/user-attachments/assets/dc416a40-b1ae-4288-b8a4-baed2f3e7c80" />
 
 # PROGRAM:
 ```C
