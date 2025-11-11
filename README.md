@@ -59,7 +59,7 @@ Delay.h, stdutils.h, gpioi.h
 
 # CIRCUIT DIAGRAM:
 
-<img width="564" height="441" alt="Screenshot 2025-11-11 134041" src="https://github.com/user-attachments/assets/dc416a40-b1ae-4288-b8a4-baed2f3e7c80" />
+<img width="763" height="357" alt="image" src="https://github.com/user-attachments/assets/2fdb851f-1148-48f4-aed7-9391149248a2" />
 
 # PROGRAM:
 ```C
