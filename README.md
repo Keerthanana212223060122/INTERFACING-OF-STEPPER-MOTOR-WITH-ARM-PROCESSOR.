@@ -3,12 +3,14 @@
 # AIM:
 To write an embedded c program to interface STEPPER MOTOR with ARM processor
 LPC1768.
+
 # COMPONENTS REQUIRED:
 HARDWARE:
 ARM LPC 1768
 STEPPER MOTOR.
 SOFTWARE:
 KEIL MICRO VISION 4.0 IDE
+
 # PROCEDURE:
 
 ⮚	Open the Keil software and select the New uvision project from Project Menu as shown below.
@@ -52,13 +54,15 @@ Header:
 Delay.h, stdutils.h, gpioi.h
 
 # PIN DIAGRAM:
-<img width="377" height="325" alt="Screenshot 2025-10-29 091930" src="https://github.com/user-attachments/assets/b7cdf415-a9ef-47d8-aa9e-38df1d7e40b8" />
+
+<img width="817" height="568" alt="image" src="https://github.com/user-attachments/assets/8f01fda0-bf21-4514-a910-f94ce0734786" />
 
 # CIRCUIT DIAGRAM:
-<img width="212" height="187" alt="image" src="https://github.com/user-attachments/assets/f1944471-7b4b-4cfa-913e-45977a21f404" />
+
+<img width="846" height="606" alt="image" src="https://github.com/user-attachments/assets/641283ec-544c-4f51-b30e-6c9964fdb14b" />
 
 # PROGRAM:
-```
+```C
 #include<lpc17xx.h>
 #include "gpio.h"
 #define pin1 20
