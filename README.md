@@ -136,6 +136,3 @@ https://github.com/user-attachments/assets/266fd821-84d7-47b5-b435-d142cfe3da3f
 
 # RESULT: 
 Thus interfacing STEPPER MOTOR with ARM processor LPC1768 is verified.
-
-
-
