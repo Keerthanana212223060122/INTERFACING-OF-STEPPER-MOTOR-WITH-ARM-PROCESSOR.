@@ -55,7 +55,7 @@ Delay.h, stdutils.h, gpioi.h
 
 # PIN DIAGRAM:
 
-<img width="684" height="441" alt="image" src="https://github.com/user-attachments/assets/b70a517d-8bdc-440e-b3c7-8944c3fc932d" />
+<img width="731" height="473" alt="image" src="https://github.com/user-attachments/assets/5421ccf6-fa3f-43ee-9c80-8300ec5f95fb" />
 
 # CIRCUIT DIAGRAM:
 
@@ -130,9 +130,9 @@ delay_ms(50);
 ```
 # OUTPUT:
 
-![WhatsApp Image 2025-11-11 at 13 23 43_599c88d9](https://github.com/user-attachments/assets/899e54ec-943b-4cdc-9da0-79e76c40199c)
+![WhatsApp Image 2025-11-11 at 14 17 54_e81fb673](https://github.com/user-attachments/assets/da1d0644-d728-4b92-b6b5-2b92e5213c82)
 
-https://github.com/user-attachments/assets/266fd821-84d7-47b5-b435-d142cfe3da3f
+https://github.com/user-attachments/assets/9ea42892-bc57-487b-ad5f-31ea22fbd337
 
 # RESULT: 
 Thus interfacing STEPPER MOTOR with ARM processor LPC1768 is verified.
